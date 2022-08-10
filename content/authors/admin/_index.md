@@ -7,6 +7,11 @@ interests:
   - Modern & Contemporary Textile Heritage
   - Heritage Science
 social:
+  - display:
+      header: false
+    icon_pack: far
+    icon: envelope
+    link: lfsidou@rbox.me
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/laissidou
