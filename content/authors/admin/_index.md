@@ -11,7 +11,7 @@ social:
       header: false
     icon_pack: far
     icon: envelope
-    link: lfsidou@rbox.me
+    link: mailto:lfsidou@rbox.me
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/laissidou
