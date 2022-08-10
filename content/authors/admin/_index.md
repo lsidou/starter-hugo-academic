@@ -1,6 +1,6 @@
 ---
 role: PhD student in Social Memory and Cultural Heritage
-avatar_filename: email-cópia-.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Textile Heritage Management & Conservation
@@ -9,7 +9,7 @@ interests:
 social:
   - display:
       header: false
-    icon_pack: far
+    icon_pack: fas
     icon: envelope
     link: mailto:lfsidou@rbox.me
   - icon: twitter
