@@ -12,6 +12,16 @@ social:
     icon_pack: fas
     icon: envelope
     link: mailto:lfsidou@rbox.me
+  - display:
+      header: false
+    link: http://lattes.cnpq.br/6208652320601607
+    icon_pack: ai
+    icon: lattes
+  - display:
+      header: false
+    link: https://orcid.org/0000-0002-4963-2469
+    icon_pack: ai
+    icon: orcid
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/laissidou
