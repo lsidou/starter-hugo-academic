@@ -1,5 +1,6 @@
 ---
 role: PhD student in Social Memory and Cultural Heritage
+avatar_filename: email-cópia-.jpg
 bio: ""
 interests:
   - Textile Heritage Management & Conservation
