@@ -3,6 +3,7 @@ role: PhD student in Social Memory and Cultural Heritage
 bio: ""
 interests:
   - Textile Heritage Management & Conservation
+  - Modern & Contemporary Textile Heritage
   - Heritage Science
 social:
   - icon: twitter
